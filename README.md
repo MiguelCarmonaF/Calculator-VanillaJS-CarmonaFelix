@@ -1,10 +1,4 @@
-# kreativstorm-calculator-project
+# Calculator made in vanilla javascript
 
-Preview link: https://renaldas0.github.io/kreativstorm-calculator-project/
+Preview link: https://precious-cajeta-65fb92.netlify.app/
 
-## Contributors:
-- Renaldas Bendikas [https://github.com/Renaldas0]
-- Arihant Swain [https://github.com/ArihantSwain]
-- Hadeer [https://github.com/hadeer57]
-- Miguel Carmona [https://github.com/MiguelCarmonaF]
-- Sumayyah Husain [https://github.com/sumayyahhusain]
